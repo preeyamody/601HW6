@@ -1,5 +1,5 @@
 # 36601 HW6, Oct. 2018
-# Your name:
+# Your name: Preeya Mody
 
 # This is a repeat of HW2, but in Python.
 # This file should be called "process_files.py".
